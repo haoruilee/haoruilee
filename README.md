@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Haorui Li
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323)
+[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323) [![Mail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:Li.haor@hotmail.com)](mailto:Li.haor@hotmail.com)
 - 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
 - 🌱 Currently learning ML on Meteorological early warning
 - 💬 Ask me about my projects on [this email adress](haoruili@seu.edu.cn)
