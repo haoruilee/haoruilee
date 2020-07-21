@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Haorui Li
 [![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323)
-- 🔭 Bachelor of Computer Science in SEU
+- 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
 - 🌱 Currently learning ML on Meteorological early warning
 - 💬 Ask me about my projects on [this email adress](haoruili@seu.edu.cn)
 - ⚡ Fun fact: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
