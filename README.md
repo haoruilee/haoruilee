@@ -1,7 +1,6 @@
 # Hello World 👋
 [![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323) [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@hotmail.com)](mailto:haoruileee@hotmail.com)
 ---
-
 ### I'm Haorui Li
 
 - 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China 
