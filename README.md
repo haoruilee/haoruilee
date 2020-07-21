@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Haorui Li
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen&link=https://blog.csdn.net/weixin_46233323)]
+[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323)
 - 🔭 Bachelor of Computer Science in SEU
 - 🌱 Currently learning ML on Meteorological early warning
 - 💬 Ask me about my projects on [this email adress](haoruili@seu.edu.cn)
