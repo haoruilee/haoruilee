@@ -5,7 +5,7 @@
 
 ### I'm Haorui Li
 
-- 🔭 Bachelor of Computer Science in Chien-Shiung Wu College, Southeast University, China
+- 🔭 Sophomore of Computer Science in Chien-Shiung Wu College, Southeast University, China
 - 🤖️ SEU-iXiaoBao Contributer
 - 🌱 Currently working on "Using ML for meteorological early warning"
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
