@@ -6,7 +6,7 @@
 ### I'm Haorui Li
 
 - 🔭 Sophomore of Computer Science in Chien-Shiung Wu College, Southeast University, China
-- 🤖️ SEU-iXiaoBao Contributer
+- 🤖️ [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/) Contributer
 - 🌱 Currently working on "Using ML for meteorological early warning"
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
