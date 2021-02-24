@@ -6,6 +6,7 @@
 ### I'm Haorui Li
 
 - 🔭 Sophomore of Computer Science in Chien-Shiung Wu College, Southeast University, China
+- 🙋 Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🤖️ [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/) Contributer
 - 🌱 Currently working on "Using ML for meteorological early warning"
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
