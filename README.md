@@ -5,7 +5,7 @@
 
 ### I'm Haorui Li
 
-- 🔭 Junior of Computer Science in Chien-Shiung Wu College, Southeast University, China
+- 🔭 Junior of Computer Science in Chien-Shiung Wu College(Honor), Southeast University, China
 - 🙋 Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🤖️ [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/) Contributer
 - 🌱 Currently working on "Using ML for meteorological early warning"
