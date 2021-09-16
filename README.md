@@ -8,7 +8,7 @@
 - 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
 - 🙋 Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🤖️ ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/) Contributer
-- 🌱 Currently working on user behavior understanding and golang cloud-server-log projects
+- 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) on user behavior understanding and golang cloud-server-log projects
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
 - ⚡ Fun fact: Data Analysis📊
