@@ -8,10 +8,10 @@
 - 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
 - 🙋 Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🤖️ ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/) Contributer
-- 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) on user behavior understanding and golang cloud-server-log projects
+- 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as Machine-learing Intern on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: 🎵 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player) && 📚 Reading (Find my booklist in my [RÉSUMÉ!(Chinese mainland)](https://hrlee.cn))
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
