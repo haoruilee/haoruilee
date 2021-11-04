@@ -32,7 +32,7 @@
 
 <a href="https://github.com/haoruilee">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=haoruilee&column=8&theme=onedark" alt="My GitHub his" height="183/>
+        <img src="https://github-profile-trophy.vercel.app/?username=haoruilee&column=8&theme=onedark" alt="My GitHub his" width="465"/>
     </p>
 </a>
 <a align="center" href="https://github.com/haoruilee">
