@@ -1,5 +1,14 @@
 # Hello World 👋
-[![Blog Badge](https://img.shields.io/badge/blog-100k+%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323) [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
+
+<p align="center">
+	<a href="https://blog.csdn.net/weixin_46233323"><img src="https://img.shields.io/badge/blog-100k+%20pageview-brightgreen" alt="Blog"></a>
+	<a href="mailto:haoruileee@gmail.com"><img src="https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com"></a>
+</p>
+
+<p align="center">
+	<p align="center">Wechat ID <code>echo -n 'bGVlX3dlY2hhdHRpbmc=' | base64 -d</code></p>
+</p>
+
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
@@ -11,7 +20,7 @@
 - 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as Machine-learing Intern on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
 - :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
-- ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player)* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮 ~Genshin Impact ！~*
+- ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player)* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
 
 
 ### Languages and Tools
