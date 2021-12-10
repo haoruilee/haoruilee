@@ -40,6 +40,8 @@
 
 ---
 
+Some interesting small tools are as follows!
+
 <a align="center" href="https://github.com/haoruilee">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=haoruilee&column=8&theme=monokai" alt="My GitHub his" width="500"/>
@@ -47,3 +49,8 @@
     <img src="https://genshin-card.getloli.com/rand/75757636.png" width="500">
   </p>
 </a>
+
+<p align="center">
+	<p align="center"><code>click the image to quickly chat with me or some anon here!</code></p>
+	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13" alt="chatroom"></a></p>
+</p>
