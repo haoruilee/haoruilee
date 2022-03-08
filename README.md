@@ -15,8 +15,8 @@
 ### I'm Haorui Li
 
 - 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
-- 🙋 **I'm looking for research chance such as research assistant or AI intern**!
-- 🙋 Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
+- 🙋 **I'm looking for research chance such as research assistant or AI intern**! Find my RÉSUMÉ [here!(Chinese mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
+- 🏆 Learder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Aliyun](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
