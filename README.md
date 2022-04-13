@@ -21,7 +21,7 @@
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
 - 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
+- :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
 - ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player, [QQMusic-Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
 
 
