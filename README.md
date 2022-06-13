@@ -52,7 +52,6 @@ Some interesting small cards are as follows!
 
 
 <p align="center">
-	<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=haoruilee&column=8&theme=monokai" alt="My GitHub his" width="500"/></p>
 	<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haoruilee&theme=monokai" alt="Languages" width="500"></p>
         <p align="center"><img src="https://genshin-card.getloli.com/12/75757636.png" width="500"></p>
 	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
