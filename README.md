@@ -15,11 +15,11 @@
 
 ### I'm Haorui Li
 
-- 🔭 Junior of Computer Science(Artificial Intelligence) in Chien-Shiung Wu College(Honor), Southeast University, China
-- 🙋 **I'm looking for research chance such as research assistant or AI intern**! Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
+- 🔭 Full-time employee
+- 🙋 Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
-- 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) as **Machine-learing Intern** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow
+- 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) as **Machine-learing SDE** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow && c++
 - 💬 Chat with me about anything in this universe by haoruileee@gmail.com
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
 - ⚡ Fun fact: *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player, [QQMusic-Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
