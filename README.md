@@ -56,4 +56,6 @@ Some interesting small cards are as follows!
         <p align="center"><img src="https://genshin-card.getloli.com/12/75757636.png" width="500"></p>
 	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
 	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
+	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/69dfa70e-b6c4-4dfb-a99f-21b3abece7af.png" width="500" /></a></p>
 </p>
+
