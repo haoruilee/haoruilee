@@ -17,7 +17,7 @@
 
 - 🔭 Full-time employee
 - 🙋 Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
-- 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](CSWU-Challenge.github.io)
+- 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) as **Machine-learing SDE** on user behavior understanding and golang cloud-server-log projects using golang && python && tensorflow && c++
 - 💬 Chat with me about anything in this universe by haoruileee@gmail.com
