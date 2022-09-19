@@ -22,7 +22,7 @@
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) on **storage system** and **machine learning platform**, full-stack. Some of my previous work is [open sourced here](https://github.com/alibaba/ilogtail)
 - 💬 Chat with me about anything in this universe by haoruileee@gmail.com
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
-- ⚡ POI : *🎼 Music (ElectronicMusic Fan, Pinao player start from scratch, Well-educated zither player, [QQMusic-Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
+- ⚡ POI : *🎼 Music (ElectronicMusic Fan, [Hang-Drum](https://en.wikipedia.org/wiki/Hang_(instrument)) player start from scratch, Well-educated zither player, [Here is my QQMusic Liked Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* && 📚 *Reading (Find my booklist in my [RÉSUMÉ!](https://hrlee.cn))* && *🎮  ~Genshin Impact ！~*
 
 
 ### Languages and Tools
