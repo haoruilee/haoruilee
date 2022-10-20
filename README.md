@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="https://blog.csdn.net/weixin_46233323"><img src="https://img.shields.io/badge/blog-190k+%20pageview-brightgreen" alt="Blog"></a>
 	<a href="https://cswu-challenge.github.io/"><img src="https://img.shields.io/github/last-commit/CSWU-Challenge/CSWU-Challenge.github.io?color=orange&label=ASC-Wiki%20(High-Performance%20Tutorial)" alt="HPC-Tutotial"></a>
-	<a href="mailto:haoruileee@gmail.com"><img src="https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com"></a>
+	<a href="mailto:haoruilee@contact.ac.cn"><img src="https://img.shields.io/badge/-haoruilee@contact.ac.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruilee@contact.ac.cn"></a>
 </p>
 
 <p align="center">
