@@ -16,7 +16,7 @@
 ### I'm Haorui Li
 
 - 🔭 Full-time employee
-- 🙋 Find my RÉSUMÉ [here!(China mainland)](https://hrlee.cn) or [here!(Overseas)](https://haoruili.work)
+- 🙋 Find my RÉSUMÉ ~[here!(China mainland)](https://hrlee.cn)~ or [here!(Overseas)](http://haoruili.work)
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) on **storage system** and **machine learning platform**, full-stack. Some of my previous work is [open sourced here](https://github.com/alibaba/ilogtail)
@@ -53,9 +53,6 @@ Some interesting small cards are as follows!
 
 <p align="center">
 	<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haoruilee&theme=monokai" alt="Languages" width="500"></p>
-        <p align="center"><img src="https://genshin-card.getloli.com/12/75757636.png" width="500"></p>
-	<p align="center"><code>⬇️  click the image to quickly chat with me or some anon here! ⬇️</code></p>
-	<p align="center"><a href="https://chat.getloli.com/room/@haoruilee.github?title=lee%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF"><img src="https://chat.getloli.com/room/@haoruilee.github/svg?width=500&height=280&limit=20&theme=light&title=haoruilee@github:%20~&fontSize=13" alt="chatroom"></a></p>
 	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/edb7ff08-e09a-41a6-aa02-dd04f6453f43.svg" width="500" /></a></p>
 	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/7890f444-b9ac-48b1-8a94-935e655e5f73.png" width="400"/></a>
 </p>
