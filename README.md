@@ -19,6 +19,7 @@
 - 🙋 Find my RÉSUMÉ ~[here!(China mainland)](https://hrlee.cn)~ or [here!(Overseas)](http://haoruili.work)
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
+- 💡 Try my **Xpapers plugin at chatGPT** plugin store! Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs.
 - 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) on **storage system** and **machine learning platform**, full-stack. Some of my previous work is [open sourced here](https://github.com/alibaba/ilogtail)
 - 💬 Chat with me about anything in this universe by haoruileee@gmail.com
 - :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
