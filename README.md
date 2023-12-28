@@ -54,7 +54,7 @@ Some interesting small cards are as follows!
 
 <p align="center">
 	<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haoruilee&theme=monokai" alt="Languages" width="500"></p>
-	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/edb7ff08-e09a-41a6-aa02-dd04f6453f43.svg" width="500" /></a></p>
+	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/afd08756-4444-463a-927d-e7e030a14592.svg" width="500" /></a></p>
 	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/7890f444-b9ac-48b1-8a94-935e655e5f73.png" width="400"/></a>
 </p>
 
