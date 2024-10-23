@@ -48,9 +48,6 @@
 
 ---
 
-Some interesting small cards are as follows!
-
-
 
 <p align="center">
 	<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@haoruilee/afd08756-4444-463a-927d-e7e030a14592.svg" width="500" /></a></p>
