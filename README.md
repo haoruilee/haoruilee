@@ -16,6 +16,7 @@
 ### I'm Haorui Li
 
 - 🔭 Full-time employee
+- 😻 Professional cat appreciator
 - 🙋 Find my RÉSUMÉ ~[here!(China mainland)](https://hrlee.cn)~ or [here!(Overseas)](https://lihaorui.com/)
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
 - 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
