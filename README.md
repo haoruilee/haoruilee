@@ -1,4 +1,4 @@
-# Hello World 👋
+# 👋
 
 <p align="center">
 	<a href="https://lihaorui.com/"><img src="https://img.shields.io/badge/blog-200k+%20pageview-brightgreen" alt="Blog"></a>
@@ -17,13 +17,10 @@
 
 - 🔭 Full-time employee
 - 😻 Professional cat appreciator
-- 🙋 Find my RÉSUMÉ ~[here!(China mainland)](https://hrlee.cn)~ or [here!(Overseas)](https://lihaorui.com/)
+- 🙋 My blog [here!(Overseas)](https://lihaorui.com/)
+- 💼 Current working at an AI start-up focus on speed up inference.
+- 🤫 Ex MLE at Alibaba Cloud on storage system
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
-- 🤖️ Creator of ChatBot [SEU-iXiaoBao](https://ixiaobao.github.io/xiaobao/)
-- 💡 Try my **Xpapers plugin at chatGPT** plugin store! Effortlessly find real academic papers on arXiv. Dive into abstracts, references, and access public PDF URLs.
-- 🌱 Currently working for [Alibaba-Cloud](https://www.aliyun.com/) on **storage system** and **machine learning platform**, full-stack. Some of my previous work is [open sourced here](https://github.com/alibaba/ilogtail)
-- 💬 Chat with me about anything in this universe by haoruileee@gmail.com
-- :star: Give me a STAR:star: if you like [my repositories!](https://github.com/haoruilee?tab=repositories&sort=stargazers) 
 - ⚡ POI : *🎼 Music (ElectronicMusic Fan, [Hang-Drum](https://en.wikipedia.org/wiki/Hang_(instrument)) player start from scratch, Well-educated zither player, [Here is my QQMusic Liked Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* 
 
 
