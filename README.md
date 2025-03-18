@@ -21,7 +21,7 @@
 - 💼 Building next-gen AI acceleration at a startup turbocharging LLM inference.
 - 🤫 Ex MLE at Alibaba Cloud on storage system
 - 🏆 Founder of [SEU-HPC(High Perfomance Computing) Team](https://asc-wiki.com)
-- ⚡ POI : *🎼 Music (ElectronicMusic Fan, [Hang-Drum](https://en.wikipedia.org/wiki/Hang_(instrument)) player start from scratch, Well-educated zither player, [Here is my QQMusic Liked Page](https://c.y.qq.com/base/fcgi-bin/u?__=MurwMAe64Mik))* 
+- ⚡ POI : *🎼 Music; ElectronicMusic Fan; [Hang-Drum](https://en.wikipedia.org/wiki/Hang_(instrument)) player; Well-educated zither player;* 
 
 
 ### Languages and Tools
